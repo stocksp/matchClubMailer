@@ -1,3 +1,3 @@
-run the signUps mailer from a local machine
+run the MatchClub mailer from a local machine
 MailGun is flagged as spam for GMAil so we must stop using it
 .env needs PW (if you are using GMAil) and MONGO_URI_LOCAL (see source)
